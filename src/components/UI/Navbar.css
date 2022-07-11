@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #232323;
+    border-color: #232323;
+    
+    margin: auto ;
+    
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.5);
+    padding: 0.2rem 0.2rem;
+    /* position: fixed; */
+    /* top: 0; */
+    width: 100%;
+    /* z-index: 1030; */
+}
+.text-white{
+    color: white;
+    text-align: center;
+}
